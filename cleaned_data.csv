@@ -1,0 +1,8 @@
+"product_name,sales,date"
+"ProductA,150,2023-01-01"
+"ProductB,200,2023-01-02"
+"ProductA,100,2023-01-03"
+"ProductC,300,2023-01-04"
+"ProductB,250,2023-01-05"
+"ProductA,120,2023-01-06"
+"ProductC,180,2023-01-07"
